@@ -5,7 +5,7 @@ The game follows a simple but engaging pattern of increasing difficulty.
 
 Key Components of the Game
 1️⃣ Four Colored Buttons
-The game typically consists of four large buttons, each with a unique color and sound:
+The game typically consists of four large buttons, each with a unique color
 
 🔴 Red
 🟢 Green
